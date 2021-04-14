@@ -1,6 +1,6 @@
-name: '42 Norminette'
+name: 'Norminette 42'
 description: 'Check 42 Norm with norminette linter'
-author: 'Reach <reach@42paris.fr>'
+author: 'JaeSeoKim <jaeskim@student.42seoul.kr>'
 branding:
   icon: 'activity'
   color: 'gray-dark'
